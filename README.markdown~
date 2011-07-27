@@ -1,4 +1,3 @@
-TEST
 Sendgrid CakePHP component
 ==========================
 
